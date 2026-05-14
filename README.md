@@ -116,7 +116,7 @@ This project follows an open-source standard for contribution:
 ## Roadmap
 - [ ] Phase 1: Go/Discord/DB Boilerplate & OAuth2
 - [ ] Phase 2: WebAuthn Registration/Login Ceremony
-- [ ] Phase 3: Poseidon commitment storage
+- [x] Phase 3: Poseidon commitment storage
 - [ ] Phase 4: `gnark` Circuit implementation & Role granting
 - [ ] Phase 5: zTLS (TLSNotary) Alpha integration
 
