@@ -1,0 +1,15 @@
+# Binaries
+bin/
+veilid
+
+# Environment
+.env
+.env.local
+
+# Tooling
+dist/
+vendor/
+
+# Agent guidance
+agent-guidelines.md
+context.md
